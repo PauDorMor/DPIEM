@@ -1,2 +1,3 @@
 # DPIEM
-Prototipo de programa para la identificacion de equipo electromedico. Se basa en la lista de Equipo Médico que se incluye en la NOM-016-SSA3-2012
+Prototipo de programa para la identificacion de equipo electromedico. Se basa en la lista de *Equipo Médico* que se incluye en la *NOM-016-SSA3-2012*, especificamente en los equipos del apendice H normativo, los cuales son los EM de la unidad quirurgica. Se añadieron equipos complementarios como bombas de infusión (*BI*), arco en C (*C-Arm*), desfibrilador (*desf*), electrocardiografo (*ECG*), esterilizadora de Oxido de Etileno (*EtO*), ultrasonido (*US*), ventilador mecanico (*VM*) y rayos x portatil (*X-Ray*)
+La base de datos usada consta de 970 imagenes de estos EM, la mayoria son de monitor de signos vitales (*MSV*), seguido de BI. Esta se realizo mediante una coleccion de 7 bases de datos de imagenes de EM, de las cuales se rescataron las imagenes mas representativas para el modelo y el fin de uso.
